@@ -1,29 +1,26 @@
 ### Hi there 👋
 
-<img src="https://user-images.githubusercontent.com/78003631/119403814-4f45a980-bcb5-11eb-997e-ef93218e1c7d.png">
+<img src="https://user-images.githubusercontent.com/78003631/119403814-4f45a980-bcb5-11eb-997e-ef93218e1c7d.png" height="400" width="750">
+ 
+
+### :brazil: Oi, tudo bem?
+
+<p>👩‍💻Sou Séphora Marques, desenvolvedora mobile, apaixonada por tecnologia e estudante de Engenharia da Computação.</p>
+<p>:computer: Atualmente estou focada em desevolvimento Android com Kotlin, mas mantenho também projetos em Java, C/C++ e Arduino.</p>
+<p>🤝Você pode me encontrar também no LinkedIn.</p>
 
 
-### Oi, tudo bem?
+### :us: Hi, there! What's up?
 
-:brazil:
-Sou Séphora Marques, desenvolvedora mobile, apaixonada por tecnologia e estudante de Engenharia da Computação.
-Atualmente estou focada em desevolvimento Android com Kotlin, mas mantenho também projetos em Java, C/C++ e Arduino.
-Você pode me encontrar também no LinkedIn.
+<p>👩‍💻I'm Séphora Marques, mobile developer, tech lover and a Computer Engineering student.</p>
+<p>:computer: I'm focused on Android development with Kotlin, but I'm also interested in Java, C/C++ and Arduino projects.</p>
+<p>🤝 You can reach me at LinkedIn too.</p>
 
-### Hi, there! What's up?
-
-:us: 
-I'm Séphora Marques, mobile developer, tech lover and a Computer Engineering student.
-I'm focused on Android development with Kotlin, but I'm also interested in Java, C/C++ and Arduino projects.
-You can reach me at LinkedIn too.
-
-
-##
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/scmarques)](https://github.com/scmarques)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sephora-marques/)](https://www.linkedin.com/in/sephora-marques)
 [![Gmail Badge](https://img.shields.io/badge/-marques.sephora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marques.sephora@gmail.com)](mailto:marques.sephora@gmail.com)
-##
+
 
 <!--
 **scmarques/scmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
