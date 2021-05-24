@@ -6,7 +6,7 @@
 ### :brazil: Oi, tudo bem?
 
 <p>👩‍💻Sou Séphora Marques, desenvolvedora mobile, apaixonada por tecnologia e estudante de Engenharia da Computação.</p>
-<p>:computer: Atualmente estou focada em desevolvimento Android com Kotlin, mas mantenho também projetos em Java, C/C++ e Arduino.</p>
+<p>:computer: Atualmente estou focada em desenvolvimento Android com Kotlin, mas mantenho também projetos em Java, C/C++ e Arduino.</p>
 <p>🤝Você pode me encontrar também no LinkedIn.</p>
 
 
