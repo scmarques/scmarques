@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img src="https://user-images.githubusercontent.com/78003631/119403814-4f45a980-bcb5-11eb-997e-ef93218e1c7d.png" height="400" width="850">
- 
+![imagem](https://user-images.githubusercontent.com/78003631/119682488-4ec62380-be19-11eb-9c64-8c2af7c6c892.gif) 
 
 ### :brazil: Oi, tudo bem?
 
