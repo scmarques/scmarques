@@ -1,7 +1,3 @@
-👋
-
-
-
 ### :brazil: Oi, tudo bem?👋
 
 👩‍💻Sou Séphora Marques, desenvolvedora mobile, apaixonada por tecnologia e estudante de Engenharia da Computação.</br>
